@@ -6,7 +6,7 @@
 This repository is the single-source frontend for ABION Industries: a fast, static, content-driven site that lists the company, its sectors, and the projects/products/ideas that live under each sector. Projects have one canonical page and can be linked from any sector page (so the same project can appear in multiple sectors without content duplication).
 
 # 🌐 Live Demo
-[abionindustries.com](https://abionindustries.com) *(Replace with actual URL)*
+[abionindustries.com.ng](https://abionindustries.com.ng) 
 
 # 📋 Table of Contents
 - [Features](#features)
